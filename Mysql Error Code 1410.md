@@ -1,5 +1,5 @@
-#  mysql Error Code 1410.
-## How To Grant Privileges to a User when you get error code 1410.
+#  mysql Error Code 1410
+## How To Grant Privileges to a User when you get error code 1410
 
 **Steps to Resolve the Error**
 
