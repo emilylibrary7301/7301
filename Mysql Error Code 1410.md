@@ -5,7 +5,7 @@
 
   **1. Create the User** You need to create a user without granting privileges
   
-| CREATE USER 'username'@'hostname' IDENTIFIED BY 'password'; |
+|| CREATE USER 'username'@'hostname' IDENTIFIED BY 'password'; ||
 
 *you may get an error message if your password doesn't meet the current requirements.  Suggestions to make it longer, add a number, add a symbol or capital letter and try this command line again
 
